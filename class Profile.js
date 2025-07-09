@@ -1,4 +1,4 @@
-
+cl
 
 let fullName = prompt("Please enter your full name (first and last name):")
 let age = prompt("Please enter your age:");
